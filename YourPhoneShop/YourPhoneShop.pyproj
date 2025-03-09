@@ -34,12 +34,16 @@
     <Compile Include="static\image2\module1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="static\бьлждкеьопжм\class1.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="static\" />
     <Folder Include="static\content\" />
     <Folder Include="static\fonts\" />
     <Folder Include="static\image2\" />
+    <Folder Include="static\бьлждкеьопжм\" />
     <Folder Include="static\scripts\" />
     <Folder Include="views\" />
   </ItemGroup>
